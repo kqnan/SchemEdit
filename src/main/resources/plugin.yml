@@ -1,0 +1,6 @@
+name: SchemEdit
+version: '${project.version}'
+main: me.kqn.schemedit.SchemEdit
+api-version: 1.19
+depend:
+  - NBTAPI
